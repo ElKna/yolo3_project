@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>Stone_statue_ (124).jpg</filename>
+	<path>/my-project-name/Stone_statue_ (124).jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>192</width>
+		<height>262</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Stone Statue</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>43</xmin>
+			<ymin>48</ymin>
+			<xmax>162</xmax>
+			<ymax>262</ymax>
+		</bndbox>
+	</object>
+</annotation>
