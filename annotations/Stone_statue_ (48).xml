@@ -1,0 +1,61 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>Stone_statue_ (48).jpg</filename>
+	<path>/my-project-name/Stone_statue_ (48).jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>627</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Stone Statue</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>702</xmin>
+			<ymin>4</ymin>
+			<xmax>1127</xmax>
+			<ymax>627</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Stone Statue</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>0</xmin>
+			<ymin>61</ymin>
+			<xmax>212</xmax>
+			<ymax>539</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Stone Statue</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>181</xmin>
+			<ymin>112</ymin>
+			<xmax>376</xmax>
+			<ymax>533</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Stone Statue</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>352</xmin>
+			<ymin>116</ymin>
+			<xmax>523</xmax>
+			<ymax>501</ymax>
+		</bndbox>
+	</object>
+</annotation>
